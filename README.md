@@ -51,14 +51,21 @@ Email spam poses significant challenges in communication systems. This project p
 ## 🛠️ Setup Instructions
 
 ### 1. 🧾 Clone the Repository
+
 git clone project repository
+
 cd spamshield-email-spam-classifier
+
 2. 📦 Install Dependencies
+   
 pip install -r requirements.txt
+
 3. 🏗️ Train the Model (if not using pre-trained)
+4. 
 python train_model.py
 
 📦 Model Files
+
 Ensure the following files are present or generated:
 
 📄 spam_model.pkl — trained Naive Bayes model
