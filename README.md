@@ -25,22 +25,6 @@ Email spam poses significant challenges in communication systems. This project p
 
 ---
 
-## 📁 Project Structure
-
-spamshield-email-spam-classifier/
-│
-├── 📁 data/ # Data source or reference
-├── 📁 notebooks/ # Jupyter analysis & EDA
-├── 📁 models/
-│ ├── 📄 spam_model.pkl # Trained model
-│ └── 📄 vectorizer.pkl # CountVectorizer instance
-├── 📄 streamlit_app.py # Main Streamlit application
-├── 📄 train_model.py # Model training script
-├── 📄 requirements.txt # Python dependencies
-└── 📄 README.md # Project documentation
-
----
-
 ## 🧪 Tech Stack
 
 - 🐍 Python 3.8+
